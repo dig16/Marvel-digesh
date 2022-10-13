@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/marvel-api-digesh/Activity 3 and 4 digesh.py
+src/marvel-api-digesh/Activity 5 digesh.py
+src/marvel-api-digesh/Avtivity 2 Digesh.py
+src/marvel-api-digesh/__init__.py
+src/marvel-api-digesh/utils digesh.py
+src/marvel_api_digeshG.egg-info/PKG-INFO
+src/marvel_api_digeshG.egg-info/SOURCES.txt
+src/marvel_api_digeshG.egg-info/dependency_links.txt
+src/marvel_api_digeshG.egg-info/top_level.txt

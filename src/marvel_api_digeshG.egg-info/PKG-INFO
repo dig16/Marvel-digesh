@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: marvel-api-digeshG
+Version: 0.0.1
+Summary: FAA marvel package
+Author-email: Digesh gaundhar <digesh2k@gmail.com>
+Project-URL: Homepage, https://github.com/dig16/Marvel-digesh
+Project-URL: Bug Tracker, https://github.com/dig16/Marvel-digesh/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+### web service interaction and packaging
